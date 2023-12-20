@@ -1,6 +1,5 @@
 <script setup>
 </script>
-
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <router-link to="/" class="navbar-brand">Exercises Wiki</router-link>

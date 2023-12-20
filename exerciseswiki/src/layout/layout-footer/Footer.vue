@@ -3,6 +3,7 @@
 </script>
 
 <template>
+  <div>
   <footer>
     <div class="container">
       <div class="footer-divider"></div>
@@ -10,6 +11,7 @@
       <h6>Amir Gazizulin 11-207</h6>
     </div>
   </footer>
+  </div>
 </template>
 
 <style>
@@ -23,6 +25,6 @@
 footer {
   background-color: #f8f9fa;
   padding: 20px 0;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 </style>
