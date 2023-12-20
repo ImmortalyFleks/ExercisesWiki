@@ -1,1 +1,2 @@
 # ExercisesWiki
+Vue.js SPA 
